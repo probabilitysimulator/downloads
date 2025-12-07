@@ -1,8 +1,8 @@
 {
-    "version": "1.0.1",
+    "md5": "4e53783ab3b78dc5a5c898e69fafb8fa",
+    "note": "稳定策略，2025/12/08 更新",
+    "type": "strategy",
+    "update_time": "2025-12-08 01:24:45",
     "url": "https://downloads.probabilitysimulator.top/strategies/strategy_pack.bin",
-    "md5": "05909584f31bbaa3e5cc908a0c749f6d",
-    "note": "常规优化更新",
-    "update_time": "2025-12-07 23:53:34",
-    "type": "strategy"
+    "version": "1.0.1"
 }
