@@ -1,8 +1,8 @@
 {
     "md5": "d8e8123721d7c72be72baf9adcf2bcb9",
-    "note": "训练日期2025/12/8，更新了5个号码的训练。\n现在AI可以给出5个号码的意见了",
+    "note": "训练日期，2025/12/8\n现在AI可以观察所有号码了",
     "type": "model",
-    "update_time": "2025-12-08 10:04:49",
+    "update_time": "2025-12-08 10:08:55",
     "url": "https://downloads.probabilitysimulator.top/ai/model_pack.bin",
-    "version": "1.0.1"
+    "version": "1.0.5"
 }
