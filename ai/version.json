@@ -1,8 +1,8 @@
 {
-    "md5": "d8e8123721d7c72be72baf9adcf2bcb9",
-    "note": "训练日期，2025/12/8\n现在AI可以观察所有号码了",
+    "md5": "40370eb6cc5b1048048c2cd2d4c1dc64",
+    "note": "12.9日训练文件",
     "type": "model",
-    "update_time": "2025-12-08 10:08:55",
+    "update_time": "2025-12-09 07:16:53",
     "url": "https://downloads.probabilitysimulator.top/ai/model_pack.bin",
-    "version": "1.0.5"
+    "version": "1.0.5.1"
 }
