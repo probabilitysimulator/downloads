@@ -1,8 +1,8 @@
 {
-    "md5": "af759ead3daa2d90c8ee07ae929e50f9",
-    "note": "修复AI无法工作的问题",
+    "md5": "bda19757edf7266db33aa7a47391bb19",
+    "note": "常规优化训练\n2025/12/12",
     "type": "model",
-    "update_time": "2025-12-10 11:57:49",
+    "update_time": "2025-12-12 10:58:58",
     "url": "https://downloads.probabilitysimulator.top/ai/model_pack.bin",
-    "version": "1.0.5.3"
+    "version": "1.0.5.5"
 }
