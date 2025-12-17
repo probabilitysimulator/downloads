@@ -1,8 +1,8 @@
 {
     "md5": "1682d5cdbe412a7a27cb1744a38f5d42",
-    "note": "常规优化更新",
+    "note": "紧急修复，后端无法运行的BUG\n2025/12/17更新模型训练文件",
     "type": "model",
-    "update_time": "2025-12-17 10:58:08",
+    "update_time": "2025-12-17 10:48:38",
     "url": "https://downloads.probabilitysimulator.top/ai/model_pack.bin",
-    "version": "1.2.3"
+    "version": "12.3"
 }
