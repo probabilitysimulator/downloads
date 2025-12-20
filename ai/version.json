@@ -1,8 +1,8 @@
 {
-    "md5": "249d6a9e4dad42fdac6156f8ccc85b4a",
-    "note": "常规优化更新,2025/12/19",
+    "md5": "12f8ae7e1126cb4c487ae10f45a0fd98",
+    "note": "修改了两个模型，优化了AI的预测速度\n2025/12/20模型重新训练",
     "type": "model",
-    "update_time": "2025-12-19 10:37:24",
+    "update_time": "2025-12-20 09:13:13",
     "url": "https://downloads.probabilitysimulator.top/ai/model_pack.bin",
-    "version": "1.2.5"
+    "version": "1.2.6"
 }
