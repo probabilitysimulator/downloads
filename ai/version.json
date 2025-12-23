@@ -1,8 +1,8 @@
 {
-    "md5": "626e469a0300bd2a653ff0d3ff438060",
-    "note": "常规优化更新",
+    "md5": "3d3bf547d96fd0144f7b27b7b7ce0883",
+    "note": "全新8维大模型！",
     "type": "model",
-    "update_time": "2025-12-21 08:15:15",
+    "update_time": "2025-12-23 09:11:23",
     "url": "https://downloads.probabilitysimulator.top/ai/model_pack.bin",
-    "version": "1.2.8"
+    "version": "1.8"
 }
